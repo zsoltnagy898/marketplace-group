@@ -1,14 +1,14 @@
 {
-  "https://testvfgermany.appdirect.com": [
+  "https://testvfgroup.appdirect.com": [
     {
       "name": "recommendedSolutions",
       "type": "list",
-      "categories": "42285"
+      "categories": "42349"
     },
     {
       "name": "carousel",
       "type": "list",
-      "categories": "42297"
+      "categories": "42346"
     },
     {
       "name": "popularapps",
