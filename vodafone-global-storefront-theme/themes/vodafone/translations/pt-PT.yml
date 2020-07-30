@@ -1,0 +1,49 @@
+home:
+  help: 'Ajuda'
+  app_support: 'Suporte'
+  business_apps: 'Aplicações'
+  search: 'Pesquisa'
+  login: 'Login'
+  contact_us: 'Contacte-nos'
+  contact_support: 'Contato de suporte'
+  popular_apps: 'Apps Populares'
+  recommended_solutions: 'Soluções Recomendadas'
+  why_buy_business_apps_from_vodafone: 'Porquê comprar à Vodafone aplicações para o seu negócio'
+  featured_partners: 'Parceiros'
+  terms_and_conditions: 'Termos e Condições'
+  privacy_policy: 'Política de Privacidade'
+  knowledge_base: 'Mais informação sobre o produto'
+  support_details: 'Informações de suporte'
+  support_telephone: 'Telefone de suporte'
+  support_email: 'Email de suporte'
+  general_policy: 'Políticas'
+  view_more: 'Ver mais'
+  all_apps: 'All apps'
+  why_vodafone:
+    section_1: 'Simples- Gira todas as suas licenças a partir de um só local'
+    section_2: 'Suporte- obtenha a ajuda que necessita, quando necessita, apenas num contacto'
+    section_3: 'Poupe tempo- Acesso fácil à nossa gama de aplicativos recomendados para o seu negócio para o ajudar a gerir, fazer crescer e proteger seus negócios.'
+  go_to_product: 'Ver produto'
+listing:
+  filters: 'Filtros'
+  catergories: 'Categorias'
+  sort_by: 'Ordenar por'
+  clear_filters: 'Limpar filtros'
+  list_view: 'Lista'
+  grid_view: 'Grelha'
+  buy_now: 'Comprar agora'
+help_menu: '<b>Servicesdesk:</b> <br>
+            Ma – Vri, 8.00 – 18.00 hrs <br>
+            E-mail: <a href="mailto: OnenetEnterpriseSupport@vodafoneziggo.com">OnenetEnterpriseSupport@vodafoneziggo.com</a> <br>
+            Phone: <a href="tel: "030 83212 1211">+31 43 387 0228</a> <br>
+            <br>
+            <b>Technical Support: </b> <br>
+            Ma – Zon, 24*7 <br>
+            E-mail: <a  href="mailto: technicalservices@vodafoneziggo.com ">technicalservices@vodafoneziggo.com </a> <br>
+            Telefoon: <a href="tel: 088 712 20020">088 712 20020 optie 1</a>
+            '
+help_menu_title: 'Precisa de ajuda?'
+searchBar:
+  placeholder: 'Pesquisar aplicações'
+register_link: 'https://cloud-marketplace.vodafone.de/vap/#/saas-register'
+register_text: 'Register'

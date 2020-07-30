@@ -32,7 +32,16 @@ listing:
   list_view: 'List view'
   grid_view: 'Grid view'
   buy_now: 'Buy Now'
-help_menu: 'For more info please contact your sales representative or specialized agent.'
+help_menu: '<b>Servicesdesk:</b> <br>
+            Mon – Fri, 8.00 – 18.00 hrs <br>
+            email: <a href="mailto: OnenetEnterpriseSupport@vodafoneziggo.com">OnenetEnterpriseSupport@vodafoneziggo.com</a> <br>
+            Phone: <a href="tel: "030 83212 1211">+31 43 387 0228</a> <br>
+            <br>
+            <b>Technical Support: </b> <br>
+            Mon – Sun, 24*7 <br>
+            e-mail: <a  href="mailto: technicalservices@vodafoneziggo.com ">technicalservices@vodafoneziggo.com </a> <br>
+            Phone: <a href="tel: 088 712 20020">Direct via 088 712 20020 option 1</a>
+            '
 help_menu_title: 'Need help?'
 searchBar:
   placeholder: 'Find Applications'
