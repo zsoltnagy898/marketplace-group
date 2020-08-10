@@ -32,7 +32,7 @@ listing:
   list_view: 'Vista de detalle'
   grid_view: 'Vista de cuadrícula'
   buy_now: 'Comprar Ahora'
-help_menu: 'Para consultas de carácter comercial, por favor, consulte con su ejecutivo de ventas o con su agente de atención especializado'
-help_menu_title: '¿necesitas ayuda?'
+help_menu: 'For more info please contact your sales representative or specialized agent.'
+help_menu_title: 'Need help?'
 searchBar:
   placeholder: 'Buscar aplicaciones'

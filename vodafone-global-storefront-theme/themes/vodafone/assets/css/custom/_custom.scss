@@ -9003,3 +9003,24 @@ p {
   overflow-y: scroll;
   transform: none !important;
 }
+
+#logocol {
+  width: 60%;
+  @include media-breakpoint-down(md) {
+    width: 100%;
+  }
+}
+
+#socialcol {
+  width: 39%;
+  @include media-breakpoint-down(md) {
+    width: 100%;
+    margin-top: 15px;
+  }
+}
+
+.ad-universalnav .footer__curtain {
+  @include media-breakpoint-down(md) {
+    padding: 20px !important;
+  }
+}
