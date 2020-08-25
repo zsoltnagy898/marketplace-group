@@ -347,7 +347,7 @@ nav.third-header {
 
 .navigation__item {
   float: left;
-  font-family: VodafoneLight, Arial, sans-serif;
+  font-family: VodafoneRegular, Arial, sans-serif;
   font-size: 24px;
 }
 
@@ -1062,4 +1062,9 @@ nav.third-header {
   &.open {
     display: block;
   }
+}
+
+.partner-logo {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

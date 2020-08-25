@@ -69,14 +69,24 @@
         {{ whyVodafone() }}
     </section>
     <section class="section section--light-grey">
-        <div class="d-block d-lg-none">
-            {{ carousel('featuredPartnersMobile', featuredPartners, featuredPartners.items, 'logo', true, false, false,
-            'mobile', 2, true, true)
-            }}
-        </div>
-        <div class="d-none d-lg-block">
-            {{ carousel('featuredPartnersDesktop', featuredPartners, featuredPartners.items, 'logo', true, false, false,
-            'desktop', 2, true, true) }}
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-12 text-center partner-logo">
+                    <img class="img-fluid" src="{{ r('/assets/images/microsoft-logo.png') }}" alt="Wix">
+                </div>
+                <div class="col-md-4 col-12 text-center partner-logo">
+                    <img class="img-fluid" src="{{ r('/assets/images/skykick.png') }}" alt="Wix">
+                </div>
+                <div class="col-md-4 col-12 text-center partner-logo">
+                    <img class="img-fluid" src="{{ r('/assets/images/wix.png') }}" alt="Wix">
+                </div>
+                <div class="col-md-4 col-12 text-center partner-logo">
+                    <img class="img-fluid" src="{{ r('/assets/images/ookout.png') }}" alt="Wix">
+                </div>
+                <div class="col-md-4 col-12 text-center partner-logo">
+                    <img class="img-fluid" src="{{ r('/assets/images/google-logo.png') }}" alt="Wix">
+                </div>
+            </div>
         </div>
     </section>
 </div>

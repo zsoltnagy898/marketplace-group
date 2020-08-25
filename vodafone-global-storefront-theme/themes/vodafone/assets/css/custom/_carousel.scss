@@ -253,3 +253,16 @@
     }
   }
 }
+
+.carousel-item-title.carousel-item-title-hero {
+  height: auto !important;
+  max-height: none !important;
+}
+.carousel .carousel-item .carousel-item-description.carousel-item-description-hero {
+  height: auto !important;
+  max-height: none !important;
+}
+
+.features-slider-image {
+  height: auto !important;
+}
