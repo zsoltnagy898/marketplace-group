@@ -75,7 +75,7 @@
     }
 
     .hero-carousel-item {
-      height: 315px;
+      min-height: 315px;
 
       @include media-breakpoint-down(md) {
         height: unset;
