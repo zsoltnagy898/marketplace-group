@@ -44,6 +44,11 @@
         <section class="container">
             {{ productTabs(application) }}
         </section>
+        <section class="addto">
+            <button class="btn btn-primary" onclick="window.AD_addToCart({{application.config.uuid}})">
+                Add to cart
+            </button>
+        </section>
         <section id="Overview" class="section--gutter">
             {{ productOverview(application) }}
         </section>
