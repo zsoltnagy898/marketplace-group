@@ -9008,6 +9008,7 @@ p {
   width: 60%;
   @include media-breakpoint-down(md) {
     width: 100%;
+    margin-left: 10px;
   }
 }
 
@@ -9015,7 +9016,8 @@ p {
   width: 39%;
   @include media-breakpoint-down(md) {
     width: 100%;
-    margin-top: 15px;
+    margin-top: 30px;
+    margin-left: 5px;
   }
 }
 
