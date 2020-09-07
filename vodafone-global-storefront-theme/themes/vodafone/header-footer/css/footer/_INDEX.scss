@@ -78,16 +78,21 @@
 
 .footer__copyright {
   font-family: "VodafoneLight", Arial, sans-serif;
+  line-height: 1.5;
 }
 
 .footer__curtain {
   padding: 65px;
+  @include media-breakpoint-down(md) {
+    padding: 20px !important;
+  }
 }
 
 @media (max-width: 991.98px) {
   .footer__aside {
     margin-top: 20px;
     font-size: 20px;
+    line-height: 1.5;
   }
 
   .footer__logo {
@@ -101,7 +106,7 @@
 
   .footer__link {
     width: 100%;
-    font-size: 23px;
+    font-size: 18px;
   }
 
   .footer__link {
@@ -126,9 +131,9 @@
   }
 }
 
-
-.ad-universalnav .footer__links {
-  font-family: VodafoneRegular !important;
+.footer {
+  padding: 0;
+  font-family: "VodafoneLight", Arial, sans-serif !important;
 }
 
 #logocol {
@@ -148,8 +153,9 @@
   }
 }
 
-.ad-universalnav .footer__curtain {
-  @include media-breakpoint-down(md) {
-    padding: 20px !important;
+#socialcol {
+  a {
+    padding: 0 !important;
+    margin: 0 !important;
   }
 }
