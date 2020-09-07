@@ -1,3 +1,4 @@
+@import "../../../../../../node_modules/bootstrap/scss/bootstrap";
 @import "../../../assets/css/custom/variables";
 
 .adb-page_footer {
@@ -122,5 +123,33 @@
     clear: left;
     display: block;
     float: none;
+  }
+}
+
+
+.ad-universalnav .footer__links {
+  font-family: VodafoneRegular !important;
+}
+
+#logocol {
+  width: 60%;
+  @include media-breakpoint-down(md) {
+      width: 100%;
+      margin-left: 10px;
+    }
+}
+
+#socialcol {
+  width: 39%;
+  @include media-breakpoint-down(md) {
+    width: 100%;
+    margin-top: 25px;
+    margin-left: 5px;
+  }
+}
+
+.ad-universalnav .footer__curtain {
+  @include media-breakpoint-down(md) {
+    padding: 20px !important;
   }
 }
