@@ -43,7 +43,7 @@ help_menu: '<b>Kaufmännischer Support:</b> <br>
             E-Mail: <a  href="mailto: fu-ict.support@vodafone.com">fu-ict.support@vodafone.com</a> <br>
             Telefon: <a href="tel: 0800 5035 215">0800 5035 215</a>
             '
-help_menu_title: 'Haben Sie Fragen?'
+help_menu_title: 'Help'
 searchBar:
   placeholder: 'Suche'
 register_link: 'https://cloud-marketplace.vodafone.de/vap/#/saas-register'

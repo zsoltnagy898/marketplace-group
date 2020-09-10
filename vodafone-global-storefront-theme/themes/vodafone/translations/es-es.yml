@@ -33,6 +33,6 @@ listing:
   grid_view: 'Vista de cuadrícula'
   buy_now: 'Comprar Ahora'
 help_menu: 'For more info please contact your sales representative or specialized agent.'
-help_menu_title: 'Need help?'
+help_menu_title: 'Help'
 searchBar:
   placeholder: 'Buscar aplicaciones'

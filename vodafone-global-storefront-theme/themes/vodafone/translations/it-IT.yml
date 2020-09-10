@@ -33,7 +33,7 @@ listing:
   grid_view: 'Vista a griglia'
   buy_now: 'Acquista ora'
 help_menu: 'For more info please contact your sales representative or specialized agent.'
-help_menu_title: 'Need help?'
+help_menu_title: 'Help'
 searchBar:
   placeholder: 'Trova applicazioni'
 register_link: 'https://cloud-marketplace.vodafone.de/vap/#/saas-register'
